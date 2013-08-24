@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiles3", "Tiles3\Tiles3\Tiles3.csproj", "{280D89C9-24D2-4DBE-A507-0352F0311229}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tiles3Content", "Tiles3\Tiles3Content\Tiles3Content.contentproj", "{B374B401-424C-46A8-92E5-CF2071A8D562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280D89C9-24D2-4DBE-A507-0352F0311229}.Debug|x86.ActiveCfg = Debug|x86
+		{280D89C9-24D2-4DBE-A507-0352F0311229}.Debug|x86.Build.0 = Debug|x86
+		{280D89C9-24D2-4DBE-A507-0352F0311229}.Release|x86.ActiveCfg = Release|x86
+		{280D89C9-24D2-4DBE-A507-0352F0311229}.Release|x86.Build.0 = Release|x86
+		{B374B401-424C-46A8-92E5-CF2071A8D562}.Debug|x86.ActiveCfg = Debug|x86
+		{B374B401-424C-46A8-92E5-CF2071A8D562}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
